@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icons/Home.png</file>
+        <file>icons/Info.png</file>
+        <file>icons/Scan.png</file>
+        <file>icons/Settings.png</file>
+        <file>icons/Update.png</file>
+        <file>icons/Warning.png</file>
+        <file>icons/Coffee.png</file>
+        <file>icons/Ok.png</file>
+        <file>icons/Crypted_48.png</file>
+        <file>icons/Error_48.png</file>
+        <file>icons/Ico.ico</file>
+        <file>icons/Ok_48.png</file>
+        <file>icons/Pause_48.png</file>
+        <file>icons/Play_48.png</file>
+        <file>icons/Scan_48.png</file>
+        <file>icons/Warning_48.png</file>
+        <file>icons/Update_48.png</file>
+        <file>icons/Info_48.png</file>
+        <file>icons/Settings_48.png</file>
+        <file>icons/Stop_48.png</file>
+        <file>icons/FixAll_48.png</file>
+        <file>icons/FixSelected_42.png</file>
+        <file>icons/Clear_48.png</file>
+    </qresource>
+</RCC>
